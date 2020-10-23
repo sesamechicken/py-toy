@@ -1,2 +1,10 @@
 # py-toy
-Toy python app with tests
+Single 🐍 python function with a test
+
+## Intsall deps
+
+`pip install -r requirements.txt`
+
+## Run test
+
+- `pytest`
